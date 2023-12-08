@@ -1,0 +1,581 @@
+{
+  level: 'warn',
+  message: 'HTTP GET /api/v1/lists/error/l',
+  metadata: {
+    meta: {
+      req: {
+        url: '/api/v1/lists/error/l',
+        headers: {
+          'content-type': 'application/json',
+          authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYsImlhdCI6MTcwMTgxMjg2NX0.1CHQlWZ16yyAo1h2jtADzH1211PUsTIsm6g9X4qRq9Y',
+          'user-agent': 'PostmanRuntime/7.35.0',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': '8bec9ed0-daa2-4707-ba4e-3c740dc32076',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '20'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/api/v1/lists/error/l',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 11
+    },
+    timestamp: '2023-12-06T11:02:59.107Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP GET /api/v1/boards/userId',
+  metadata: {
+    meta: {
+      req: {
+        url: '/api/v1/boards/userId',
+        headers: {
+          authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYsImlhdCI6MTcwMTgxMjg2NX0.1CHQlWZ16yyAo1h2jtADzH1211PUsTIsm6g9X4qRq9Y',
+          'user-agent': 'PostmanRuntime/7.35.0',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': '70f4b0dd-2319-4ee0-b8b6-071f430335ce',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/api/v1/boards/userId',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 6
+    },
+    timestamp: '2023-12-07T02:37:26.323Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP GET /api/v1/lists/error/l',
+  metadata: {
+    meta: {
+      req: {
+        url: '/api/v1/lists/error/l',
+        headers: {
+          'content-type': 'application/json',
+          authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYsImlhdCI6MTcwMTgxMjg2NX0.1CHQlWZ16yyAo1h2jtADzH1211PUsTIsm6g9X4qRq9Y',
+          'user-agent': 'PostmanRuntime/7.35.0',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': 'd52a7fe6-a3c3-46ad-8faf-97bffa6361f2',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '20'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/api/v1/lists/error/l',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 5
+    },
+    timestamp: '2023-12-07T02:38:24.119Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP GET /api/v1/lists',
+  metadata: {
+    meta: {
+      req: {
+        url: '/api/v1/lists',
+        headers: {
+          'content-type': 'application/json',
+          authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYsImlhdCI6MTcwMTgxMjg2NX0.1CHQlWZ16yyAo1h2jtADzH1211PUsTIsm6g9X4qRq9Y',
+          'user-agent': 'PostmanRuntime/7.35.0',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': '393f529b-1678-4cae-9e68-2c1668a8644f',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '20'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/api/v1/lists',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 2
+    },
+    timestamp: '2023-12-07T02:38:42.502Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP POST /api/v1/lists',
+  metadata: {
+    meta: {
+      req: {
+        url: '/api/v1/lists',
+        headers: {
+          'content-type': 'application/json',
+          authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYsImlhdCI6MTcwMTgxMjg2NX0.1CHQlWZ16yyAo1h2jtADzH1211PUsTIsm6g9X4qRq9Y',
+          'user-agent': 'PostmanRuntime/7.35.0',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': '056cf42d-aa8e-4f43-b4f6-d538002d1859',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '48'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/api/v1/lists',
+        query: {}
+      },
+      res: { statusCode: 400 },
+      responseTime: 3
+    },
+    timestamp: '2023-12-07T02:40:55.778Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP GET /api/v1/lists/5',
+  metadata: {
+    meta: {
+      req: {
+        url: '/api/v1/lists/5',
+        headers: {
+          authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYsImlhdCI6MTcwMTgxMjg2NX0.1CHQlWZ16yyAo1h2jtADzH1211PUsTIsm6g9X4qRq9Y',
+          'user-agent': 'PostmanRuntime/7.35.0',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': '13841d71-d1da-448f-8a3c-884b8196cc8c',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/api/v1/lists/5',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 3
+    },
+    timestamp: '2023-12-07T02:41:46.139Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP GET /api/v1/lists/9',
+  metadata: {
+    meta: {
+      req: {
+        url: '/api/v1/lists/9',
+        headers: {
+          authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYsImlhdCI6MTcwMTgxMjg2NX0.1CHQlWZ16yyAo1h2jtADzH1211PUsTIsm6g9X4qRq9Y',
+          'user-agent': 'PostmanRuntime/7.35.0',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': '72662fff-1378-43fc-8ad4-b8caecf837c0',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/api/v1/lists/9',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 3
+    },
+    timestamp: '2023-12-07T02:41:56.506Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP PUT /api/v1/lists/3',
+  metadata: {
+    meta: {
+      req: {
+        url: '/api/v1/lists/3',
+        headers: {
+          'content-type': 'application/json',
+          authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYsImlhdCI6MTcwMTgxMjg2NX0.1CHQlWZ16yyAo1h2jtADzH1211PUsTIsm6g9X4qRq9Y',
+          'user-agent': 'PostmanRuntime/7.35.0',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': 'b869166d-dce8-4e14-a2f4-e1be567caf4a',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '43'
+        },
+        method: 'PUT',
+        httpVersion: '1.1',
+        originalUrl: '/api/v1/lists/3',
+        query: {}
+      },
+      res: { statusCode: 400 },
+      responseTime: 4
+    },
+    timestamp: '2023-12-07T02:42:21.956Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP PUT /api/v1/lists/3',
+  metadata: {
+    meta: {
+      req: {
+        url: '/api/v1/lists/3',
+        headers: {
+          'content-type': 'application/json',
+          authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYsImlhdCI6MTcwMTgxMjg2NX0.1CHQlWZ16yyAo1h2jtADzH1211PUsTIsm6g9X4qRq9Y',
+          'user-agent': 'PostmanRuntime/7.35.0',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': '3a6a3783-27ef-4394-9a3b-f90dc8840be8',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '43'
+        },
+        method: 'PUT',
+        httpVersion: '1.1',
+        originalUrl: '/api/v1/lists/3',
+        query: {}
+      },
+      res: { statusCode: 400 },
+      responseTime: 4
+    },
+    timestamp: '2023-12-07T02:42:50.037Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP PUT /api/v1/lists/3',
+  metadata: {
+    meta: {
+      req: {
+        url: '/api/v1/lists/3',
+        headers: {
+          'content-type': 'application/json',
+          authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYsImlhdCI6MTcwMTgxMjg2NX0.1CHQlWZ16yyAo1h2jtADzH1211PUsTIsm6g9X4qRq9Y',
+          'user-agent': 'PostmanRuntime/7.35.0',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': '2377b938-3a7e-4a38-8826-7c739aa9c747',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '43'
+        },
+        method: 'PUT',
+        httpVersion: '1.1',
+        originalUrl: '/api/v1/lists/3',
+        query: {}
+      },
+      res: { statusCode: 400 },
+      responseTime: 12
+    },
+    timestamp: '2023-12-07T02:43:40.686Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP DELETE /api/v1/lists/3',
+  metadata: {
+    meta: {
+      req: {
+        url: '/api/v1/lists/3',
+        headers: {
+          authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYsImlhdCI6MTcwMTgxMjg2NX0.1CHQlWZ16yyAo1h2jtADzH1211PUsTIsm6g9X4qRq9Y',
+          'user-agent': 'PostmanRuntime/7.35.0',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': '45618e94-1085-49f9-9e43-f31b32c78e2b',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'DELETE',
+        httpVersion: '1.1',
+        originalUrl: '/api/v1/lists/3',
+        query: {}
+      },
+      res: { statusCode: 400 },
+      responseTime: 12
+    },
+    timestamp: '2023-12-07T02:48:56.790Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP GET /api/v1/boards/1',
+  metadata: {
+    meta: {
+      req: {
+        url: '/api/v1/boards/1',
+        headers: {
+          authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYsImlhdCI6MTcwMTgxMjg2NX0.1CHQlWZ16yyAo1h2jtADzH1211PUsTIsm6g9X4qRq9Y',
+          'user-agent': 'PostmanRuntime/7.35.0',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': '0f7ae1ae-dd44-48a4-a188-247cfd4b0ce1',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/api/v1/boards/1',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 4
+    },
+    timestamp: '2023-12-07T03:05:04.644Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP GET /api/v1/boards/1',
+  metadata: {
+    meta: {
+      req: {
+        url: '/api/v1/boards/1',
+        headers: {
+          authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYsImlhdCI6MTcwMTgxMjg2NX0.1CHQlWZ16yyAo1h2jtADzH1211PUsTIsm6g9X4qRq9Y',
+          'user-agent': 'PostmanRuntime/7.35.0',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': 'fb992f9d-ed2d-4681-bdac-c9267cf47d99',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/api/v1/boards/1',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 14
+    },
+    timestamp: '2023-12-07T03:05:56.066Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP PUT /api/v1/boards/1',
+  metadata: {
+    meta: {
+      req: {
+        url: '/api/v1/boards/1',
+        headers: {
+          'content-type': 'application/json',
+          authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYsImlhdCI6MTcwMTgxMjg2NX0.1CHQlWZ16yyAo1h2jtADzH1211PUsTIsm6g9X4qRq9Y',
+          'user-agent': 'PostmanRuntime/7.35.0',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': '2ac2608c-187b-4ec4-9d6f-f974b1ca02d6',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '28'
+        },
+        method: 'PUT',
+        httpVersion: '1.1',
+        originalUrl: '/api/v1/boards/1',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 11
+    },
+    timestamp: '2023-12-07T03:09:33.113Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP PUT /api/v1/boards/14',
+  metadata: {
+    meta: {
+      req: {
+        url: '/api/v1/boards/14',
+        headers: {
+          'content-type': 'application/json',
+          authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYsImlhdCI6MTcwMTgxMjg2NX0.1CHQlWZ16yyAo1h2jtADzH1211PUsTIsm6g9X4qRq9Y',
+          'user-agent': 'PostmanRuntime/7.35.0',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': '1113b4df-a244-421b-9e57-6df7807a2d25',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '25'
+        },
+        method: 'PUT',
+        httpVersion: '1.1',
+        originalUrl: '/api/v1/boards/14',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 31
+    },
+    timestamp: '2023-12-07T03:20:58.677Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP PUT /api/v1/boards/14',
+  metadata: {
+    meta: {
+      req: {
+        url: '/api/v1/boards/14',
+        headers: {
+          'content-type': 'application/json',
+          authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYsImlhdCI6MTcwMTgxMjg2NX0.1CHQlWZ16yyAo1h2jtADzH1211PUsTIsm6g9X4qRq9Y',
+          'user-agent': 'PostmanRuntime/7.35.0',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': '19f3c58f-97c1-44ae-bbfa-00b2198e13bc',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '25'
+        },
+        method: 'PUT',
+        httpVersion: '1.1',
+        originalUrl: '/api/v1/boards/14',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 26
+    },
+    timestamp: '2023-12-07T03:21:49.363Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP PUT /api/v1/boards/14',
+  metadata: {
+    meta: {
+      req: {
+        url: '/api/v1/boards/14',
+        headers: {
+          'content-type': 'application/json',
+          authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYsImlhdCI6MTcwMTgxMjg2NX0.1CHQlWZ16yyAo1h2jtADzH1211PUsTIsm6g9X4qRq9Y',
+          'user-agent': 'PostmanRuntime/7.35.0',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': '9fb1e573-9470-4097-8028-3d8ffc1f7864',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '25'
+        },
+        method: 'PUT',
+        httpVersion: '1.1',
+        originalUrl: '/api/v1/boards/14',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 26
+    },
+    timestamp: '2023-12-07T03:22:49.190Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP DELETE /api/v1/boards/1',
+  metadata: {
+    meta: {
+      req: {
+        url: '/api/v1/boards/1',
+        headers: {
+          'user-agent': 'PostmanRuntime/7.35.0',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': 'f581230f-a2dd-4ebf-8e40-5978ae5436df',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'DELETE',
+        httpVersion: '1.1',
+        originalUrl: '/api/v1/boards/1',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 2
+    },
+    timestamp: '2023-12-07T03:28:30.193Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP DELETE /api/v1/boards/1',
+  metadata: {
+    meta: {
+      req: {
+        url: '/api/v1/boards/1',
+        headers: {
+          authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYsImlhdCI6MTcwMTgxMjg2NX0.1CHQlWZ16yyAo1h2jtADzH1211PUsTIsm6g9X4qRq9Y',
+          'user-agent': 'PostmanRuntime/7.35.0',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': 'b7266a10-6d6c-4272-b63f-7159ed83d04d',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'DELETE',
+        httpVersion: '1.1',
+        originalUrl: '/api/v1/boards/1',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 17
+    },
+    timestamp: '2023-12-07T03:28:50.666Z'
+  }
+}
+{
+  level: 'warn',
+  message: 'HTTP DELETE /api/v1/boards/14',
+  metadata: {
+    meta: {
+      req: {
+        url: '/api/v1/boards/14',
+        headers: {
+          authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYsImlhdCI6MTcwMTgxMjg2NX0.1CHQlWZ16yyAo1h2jtADzH1211PUsTIsm6g9X4qRq9Y',
+          'user-agent': 'PostmanRuntime/7.35.0',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': 'bf38b378-9b6c-4e73-b3f1-b3f53e388ab9',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive'
+        },
+        method: 'DELETE',
+        httpVersion: '1.1',
+        originalUrl: '/api/v1/boards/14',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 18
+    },
+    timestamp: '2023-12-07T03:29:53.057Z'
+  }
+}

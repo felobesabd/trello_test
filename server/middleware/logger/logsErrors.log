@@ -1,0 +1,90 @@
+{
+  level: 'error',
+  message: 'HTTP PUT /api/v1/boards/14',
+  metadata: {
+    meta: {
+      req: {
+        url: '/api/v1/boards/14',
+        headers: {
+          'content-type': 'application/json',
+          authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYsImlhdCI6MTcwMTgxMjg2NX0.1CHQlWZ16yyAo1h2jtADzH1211PUsTIsm6g9X4qRq9Y',
+          'user-agent': 'PostmanRuntime/7.35.0',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': '1113b4df-a244-421b-9e57-6df7807a2d25',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '25'
+        },
+        method: 'PUT',
+        httpVersion: '1.1',
+        originalUrl: '/api/v1/boards/14',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 31
+    },
+    timestamp: '2023-12-07T03:20:58.677Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP PUT /api/v1/boards/14',
+  metadata: {
+    meta: {
+      req: {
+        url: '/api/v1/boards/14',
+        headers: {
+          'content-type': 'application/json',
+          authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYsImlhdCI6MTcwMTgxMjg2NX0.1CHQlWZ16yyAo1h2jtADzH1211PUsTIsm6g9X4qRq9Y',
+          'user-agent': 'PostmanRuntime/7.35.0',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': '19f3c58f-97c1-44ae-bbfa-00b2198e13bc',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '25'
+        },
+        method: 'PUT',
+        httpVersion: '1.1',
+        originalUrl: '/api/v1/boards/14',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 26
+    },
+    timestamp: '2023-12-07T03:21:49.363Z'
+  }
+}
+{
+  level: 'error',
+  message: 'HTTP PUT /api/v1/boards/14',
+  metadata: {
+    meta: {
+      req: {
+        url: '/api/v1/boards/14',
+        headers: {
+          'content-type': 'application/json',
+          authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYsImlhdCI6MTcwMTgxMjg2NX0.1CHQlWZ16yyAo1h2jtADzH1211PUsTIsm6g9X4qRq9Y',
+          'user-agent': 'PostmanRuntime/7.35.0',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': '9fb1e573-9470-4097-8028-3d8ffc1f7864',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '25'
+        },
+        method: 'PUT',
+        httpVersion: '1.1',
+        originalUrl: '/api/v1/boards/14',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 26
+    },
+    timestamp: '2023-12-07T03:22:49.190Z'
+  }
+}
